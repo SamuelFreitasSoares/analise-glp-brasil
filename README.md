@@ -6,6 +6,7 @@ Com o fim da pandemia, da necessidade de se realizar um *lockdown* e a entrada d
 ---
 ### 1. Entendimento do Negócio
 **Objetivo**
+
 Analisar a variação histórica do preço do gás liquefeito de petróleo (GLP) no período entre 2023 a 2025. Entender como o cenário político tanto nacional quanto internacional afetaram a variabilidade do preço deste recurso. Para isso, busquei responder as seguintes perguntas:
 - Qual foi o preço médio do GLP em cada mês por estado?
 - Qual foi a variação do preço médio de cada estado em comparação com a média nacional, num mesmo período de tempo?
